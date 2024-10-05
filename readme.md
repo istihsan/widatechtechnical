@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a web-based Invoice Management System that allows users to create, view, and manage invoices. The application is built using React for the front end, Node.js for the backend, and Sequelize for database interactions. It includes features like adding products to invoices, tracking revenue over time, and managing clients.
+This project is a web-based Invoice Management System that allows users to create, view, and manage invoices. The application is built using React for the front end, Node.js for the backend, and Sequelize for database interactions. It includes features like adding products to invoices, tracking revenue over time.
 
 ## Features
 
